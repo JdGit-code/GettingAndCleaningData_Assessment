@@ -1,8 +1,5 @@
----
-title: "The CodeBook"
-output: html_document
----
 
+##The CodeBook
 
 No other transformations than the ones done in the script has been made on the data. The script merges many the different files, into one single dataset as it has been stated in the exercise (see readme for the exercise's description).
 
