@@ -1,8 +1,5 @@
-<<<<<<< HEAD
----
-title: "Getting and Cleaning Data Peer Assessment"
-output: html_document
----
+
+##Getting and Cleaning Data Peer Assessment
 
 This repo contains my solution to the Getting and Cleaning Data Peer Assessment (see description below).
 
@@ -15,7 +12,7 @@ The execution of this script creates a tiny data set and saves it under "tidy.tx
 The script has been tested on Windows, not on MaC or linux.
 
 
-## The exercise's description
+##The exercise's description
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 
@@ -28,6 +25,4 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 You should create one R script called run_analysis.R that does the following. Merges the training and the test sets to create one data set. Extracts only the measurements on the mean and standard deviation for each measurement. Uses descriptive activity names to name the activities in the data set Appropriately labels the data set with descriptive activity names. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
-=======
-# GettingAndCleaningData_Assessment
->>>>>>> 7ea5a58ce7d56ee28a73445949f9765ea4ae2a36
+
