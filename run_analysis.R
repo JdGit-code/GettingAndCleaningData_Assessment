@@ -100,4 +100,4 @@ tidyData <- tidyData[order(SubjectID, ActivityName)]
 
 
 #----- creates the tiny data set and saves it under "tidy.txt"
-write.table(tidyData, file = "tidy.txt", row.names = FALSE)
+write.table(tidyData, file = "./tidy.txt", row.names = FALSE)
